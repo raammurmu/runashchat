@@ -175,8 +175,8 @@ export function ChatSidebar() {
               }`}
             >
               <Image
-                src="/"
-                alt="RunAsh Logo"
+                src="/scira.png"
+                alt="Scira Logo"
                 width={24}
                 height={24}
                 className="absolute transform scale-75"
